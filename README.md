@@ -1,0 +1,2 @@
+# javaprojectlibrarymanagment
+The Library Management System follows a modular and layered architecture consisting of three main components: the Model layer, Service layer, and Main (User Interface) layer. The Model layer includes classes such as Book and Member (with StudentMember and FacultyMember as subclasses) that represent the core entities of the system.
